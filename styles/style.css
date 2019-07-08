@@ -1,0 +1,48 @@
+body {
+	margin: 0 auto;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+}
+body {
+	line-height: 1;
+}
+
+#topbar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding: 20px;
+}
+
+#sign-in {
+    display: inline;
+}
+
+
+#body {
+    display: block;
+    width: 272px;
+    position: relative;
+    top: 40px;
+    margin: auto;
+    padding: 20px;
+}
+
+#logo {
+    display: block;
+}
+
+#search {
+    width: 100%;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: gray;
+    padding: 20px;
+}
